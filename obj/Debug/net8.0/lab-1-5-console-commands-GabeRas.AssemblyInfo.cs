@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-5-console-commands-GabeRas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdc8fcaf29a9c59c4566282c5beac3c38a58c70b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65d05f9bf43b451a14bdf7ab16bfad8308708888")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-5-console-commands-GabeRas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-5-console-commands-GabeRas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
