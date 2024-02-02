@@ -1,0 +1,15 @@
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\bin\Debug\net8.0\lab-1-5-console-commands-GabeRas.exe
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\bin\Debug\net8.0\lab-1-5-console-commands-GabeRas.deps.json
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\bin\Debug\net8.0\lab-1-5-console-commands-GabeRas.runtimeconfig.json
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\bin\Debug\net8.0\lab-1-5-console-commands-GabeRas.dll
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\bin\Debug\net8.0\lab-1-5-console-commands-GabeRas.pdb
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.AssemblyInfoInputs.cache
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.AssemblyInfo.cs
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.csproj.CoreCompileInputs.cache
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.sourcelink.json
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.dll
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\refint\lab-1-5-console-commands-GabeRas.dll
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.pdb
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\lab-1-5-console-commands-GabeRas.genruntimeconfig.cache
+C:\Users\alien\Desktop\my-code-dir\lab-1-5-console-commands-GabeRas\obj\Debug\net8.0\ref\lab-1-5-console-commands-GabeRas.dll
